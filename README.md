@@ -1,23 +1,22 @@
-### Hi there 👋
-
-<!--
-##  Neto Spadoni!
+##  Luís Fernando!
  
-Olá, me chamo Neto Spadoni, trabalhava como Filmmaker e a 1 ano atrás fiz uma transição em minha carreira para o Desenvolvimento Back-End. Atualmente, estou finalizando Publicidade & Propaganda e cursando Engenharia de Software.
+Olá, me chamo Luís Fernando Pinto, trabalhei como genexus por 2 anos, como tester/QA por 7 meses e atualmente trabalho como desenvolvedor Fullstack Go.
  
 ## 📊 Estatísticas
 <div>
-<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=nespadoni&theme=holi&show_icons=true&hide=contribs,prs">
-<img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nespadoni&theme=holi&hide_progress=true">
+![luis13005's Stats](https://github-readme-stats.vercel.app/api?username=luis13005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![luis13005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luis13005&theme=vue-dark&hide_border=true)
+![luis13005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luis13005&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
  
 ## 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
-<img align="center" alt="Neto-JAVA" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-<img align="center" alt="Neto-SPRING" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-<img align="center" alt="Neto-MYSQL" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="Neto-AWS" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="center" alt="Neto-ORACLE" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-<img align="center" alt="Neto-POSTGRESQL" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+[![go](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![java](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![spring](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![docker](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![postgres](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![postgres](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![angular](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+![sqlserver](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
 </div>
--->
