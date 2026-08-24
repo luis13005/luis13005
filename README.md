@@ -4,7 +4,7 @@ Desenvolvedor apaixonado por tecnologia com experiência diversificada em desenv
 
 ## 🚀 Sobre mim
 
-- 💼 **Desenvolvedor Fullstack Go** (atual)
+- 💼 **Desenvolvedor Fullstack Go** (atual) e Java
 - 🧪 **Tester/QA** (7 meses de experiência)
 - 🔧 **Desenvolvedor GeneXus** (2 anos de experiência)
 - 📍 Cuiabá, Mato Grosso - Brasil
